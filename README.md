@@ -1,2 +1,5 @@
 # CSS-Float-Gitpitch
-使用 Gitpitch 制作的关于 CSS Float 的幻灯片.
+
+Udacity 前端入门优等生互助班 9 期第二次直播课件。
+
+查看地址：https://gitpitch.com/tedlife/css-float-gitpitch
